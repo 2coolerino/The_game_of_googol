@@ -1,2 +1,2 @@
-# The_game_of_googol
-A simple python implementation of the game of googol
+# The game of googol done in python!
+A simple python implementation of the game of googol.
